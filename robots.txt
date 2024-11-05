@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ileyooda.github.io/DFy/sitemap_index.txt
+Sitemap: https://ileyooda.github.io/FWr/sitemap_index.txt
+Sitemap: https://ileyooda.github.io/agF/sitemap_index.txt
+Sitemap: https://ileyooda.github.io/oWb/sitemap_index.txt
